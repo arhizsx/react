@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          testing react progressive web app
+          testing react progressive web app with correct buildpack
         </p>
         <a
           className="App-link"
